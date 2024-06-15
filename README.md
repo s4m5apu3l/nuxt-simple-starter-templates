@@ -1,1 +1,3 @@
-# nuxt-simple-starter-templates
+# nuxt-simple-spa
+
+## eslint + tailwind + spa
